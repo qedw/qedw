@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/qedw/qedw/assets/133174200/2b413fbb-8102-4fee-b2ff-a8e992b7afb4)
+
 <!--
 **qedw/qedw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
